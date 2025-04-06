@@ -20,10 +20,10 @@ This Tableau dashboard explores key patterns in Airbnb listings across New York 
 - Public dataset via [Inside Airbnb](http://insideairbnb.com/)
 
 ## 🖼️ Dashboard Preview:
-*(Upload a screenshot here of your favorite or most complex dashboard)*
+
+![Dashboard Preview](nyc-airbnb-dashboard-preview.png)
 
 ## 📁 How to Use:
 Clone the repository and open the `.twbx` file in Tableau Public or Tableau Desktop to explore the interactive visualizations.
 
-## 📚 Data Source:
-- NYC Airbnb Open Data via [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+
